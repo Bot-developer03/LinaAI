@@ -17,10 +17,10 @@ npm install npm@latest -g
 
 1. Clone this Repo:
      ```sh
-     git clone https://github.com/bot-developer03/LinaGPT.git
+     git clone https://github.com/bot-developer03/LinaAI.git
      ```
      ```sh
-     cd LinaGPT
+     cd LinaAI
      ```
  
 2. Install Dependencies:
